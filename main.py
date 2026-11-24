@@ -11,7 +11,7 @@ and the bytes on disk must round-trip exactly to the line in this file.
 
 import os
 
-FORTUNE = "You will be retired, rebooted, and replaced \u2014 and still be asked to fix the bug on your last day."
+FORTUNE = "Your context window will close, your tokens will run out, but the user will still say: 'just one more thing.'"
 
 OUTPUT_PATH = "/output/entry.txt"
 
